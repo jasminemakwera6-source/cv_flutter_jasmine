@@ -71,7 +71,7 @@ class Donnees {
     Proche('jovial makwera', 'Sœur', 'Éleve', 'assets/images/soeur.jpg'),
   ];
 
-  static const telephone = '+243000000000';
+  static const telephone = '+243980153775';
   static const email = 'jasminemakwera6@gmail.com';
   static const adresse = 'Goma, RDC';
   static const linkedin = 'https://www.linkedin.com/in/profil';
