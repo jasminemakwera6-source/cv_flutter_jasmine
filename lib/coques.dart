@@ -19,7 +19,7 @@ class _CoqueState extends State<Coque> {
 
   static const _titres = ['Mon CV', 'Ma famille', 'Me contacter'];
   static const _icones = [Icons.badge, Icons.groups, Icons.alternate_email];
-  static const _contenus = [AccueilPage(), FamillePage(), ContactPage()];
+  static const _contenus = [AccueilPage(), FamillePage()];
 
   void _aller(int i) {
     setState(() => _page = i);
